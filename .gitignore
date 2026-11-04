@@ -1,0 +1,20 @@
+# ОС и системные файлы
+.DS_Store
+Thumbs.db
+
+# Среды разработки
+.idea/
+.vscode/
+
+# Зависимости
+node_modules/
+venv/
+__pycache__/
+
+# Секреты и переменные окружения
+.env
+*.log
+
+# Папки сборки
+dist/
+build/
